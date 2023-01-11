@@ -6,4 +6,5 @@ fastapi==0.75.0
 pydantic==1.9.0
 wikipedia==1.4.0
 pytest-cov==3.0.0
+ipdb
 git+https://github.com/LIAAD/yake
